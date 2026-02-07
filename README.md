@@ -24,7 +24,7 @@
 </p>
 <h2>Stuff that I sorta know</h2>
 <p>
-  <img src="https://img.shields.io/badge/FASTA-Sequence%20Format-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FASTA-Bioinformatics-4CAF50?style=for-the-badge&logo=dna&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -36,6 +36,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
 
 
 
