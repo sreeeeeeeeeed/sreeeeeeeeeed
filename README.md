@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
-  I usually create stuff on <b>Roblox Studio</b>, but occasionally I dabble in <b>web development</b>.  
+  I usually create stuff on Roblox Studio, but occasionally I dabble in web development.  
   You'll find some of my projects here!
 </p>
+
